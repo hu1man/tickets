@@ -55,7 +55,9 @@ def start(update, context):
 🤨 මොනාහරි ප්‍රශ්න තියනවනම් , 🤨
 
 🎆 Janidu - 0701987535
-🎆 Gayashan -  0714332070 මෙයාලව Contact කරගන්න.""")
+🎆 Gayashan -  0714332070 මෙයාලව Contact කරගන්න.
+
+bot by - @drkvidun""")
 
     welcome_message = "ඔයාගේ නම ඇතුලත් කරන්න"
     context.bot.send_message(chat_id=chat_id, text=welcome_message)
